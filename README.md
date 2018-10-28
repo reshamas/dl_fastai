@@ -1,5 +1,9 @@
 # dl_fastai
- 
+
+
+## Get to Jupyter Notebook
+- Go to localhost (run Jupyter Notebook):  
+http://localhost:8080/tree
 
 doc(interp.plot_top_losses)
 - prediction, actual, loss, probability it was predicted
